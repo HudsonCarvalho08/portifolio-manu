@@ -142,7 +142,7 @@ img {
 
     .conteudo {
         flex-direction: column-reverse;
-        font-size: 12px;
+        
         
        
     }
@@ -150,6 +150,10 @@ img {
     .conteudo__ {
         width: auto;
         
+    }
+
+    .conteudo__titulo {
+        font-size: 22px;
     }
 
 
