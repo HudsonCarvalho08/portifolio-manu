@@ -129,7 +129,7 @@ img {
    
 
     .cabecalho {
-        padding: 5%;
+        padding: 10%;
         margin: 0 0 0 100%;
         
         
@@ -142,6 +142,7 @@ img {
 
     .conteudo {
         flex-direction: column-reverse;
+        padding: 5%;
         
         
        
@@ -150,11 +151,6 @@ img {
     .conteudo__ {
         width: auto;
         
-    }
-
-    .conteudo__titulo {
-        width: auto;
-
     }
 
 
