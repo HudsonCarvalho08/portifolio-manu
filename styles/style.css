@@ -152,6 +152,10 @@ img {
         width: auto;
 
     }
+    
+    img {
+        width: 35%;
+    }
 
 
 }
