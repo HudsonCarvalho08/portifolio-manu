@@ -149,12 +149,13 @@ img {
 
     .conteudo__ {
         width: auto;
+        font-size: 11115%;
         
     }
 
     .conteudo__titulo {
         width: auto;
-        flex-direction: column-reverse;
+
     }
 
 
