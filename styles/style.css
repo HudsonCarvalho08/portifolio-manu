@@ -143,7 +143,7 @@ img {
     .conteudo {
         flex-direction: column-reverse;
         padding: 5%;
-        margin: 10%;
+        margin: 10% 10% 10% 10%;
        
     }
 
