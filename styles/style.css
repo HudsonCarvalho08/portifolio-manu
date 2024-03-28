@@ -136,12 +136,12 @@ img {
 
     .cabecalho__menu {
         justify-content: center;
-        margin: 5px;
+
     }
 
     .conteudo {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 115%;
        
     }
 
