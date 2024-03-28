@@ -159,5 +159,13 @@ img {
         padding: 2%;
     }
 
+    img {
+        width: 25%;
+        height: 25%;
+        margin-right: 8%;
+        border-radius: 190px;
+        
+    }
+
 
 }
