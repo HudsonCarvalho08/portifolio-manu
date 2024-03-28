@@ -155,7 +155,7 @@ img {
     .conteudo__link_links {
         width: auto;
         padding: 2%;
-        display: block;
+        display: flex;
     }
 
     .conteudo__link_links_img{
