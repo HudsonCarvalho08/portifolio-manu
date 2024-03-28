@@ -128,7 +128,8 @@ img {
   
     
     .cabecalho {
-        padding: 8%;
+        padding: 10%;
+        position: fixed;
        
         
         
