@@ -126,10 +126,13 @@ img {
 
 @media (max-width: 1200px) {
   
-    
+    body {
+        position: absolute;
+    }
+
     .cabecalho {
         padding: 10%;
-        position: absolute;
+        
         
     }
 
