@@ -128,11 +128,16 @@ img {
   
    
 
+    .cabecalho {
+        padding: 5%;
+        margin: 5%;
+        
+        
+    }
 
     .cabecalho__menu {
         justify-content: center;
-        padding: 5%;
-       
+        margin: 5%;
     }
 
     .conteudo {
