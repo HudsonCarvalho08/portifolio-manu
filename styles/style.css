@@ -130,20 +130,20 @@ img {
 
     .cabecalho {
         padding: 5%;
+        margin: 10%  10%;
         
         
     }
 
     .cabecalho__menu {
         justify-content: center;
-        margin: 5% 10% 0 0;
         
     }
 
     .conteudo {
         flex-direction: column-reverse;
         padding: 5%;
-        margin: 10%  10%;
+        
        
     }
 
