@@ -64,6 +64,7 @@ body {
 
 img {
     width: 25%;
+    height: 35%;
     margin-right: 8%;
     border-radius: 190px;
     
@@ -105,6 +106,7 @@ img {
 
 .conteudo__link_links_img{
     width: 30px;
+    height: 75%;
 }
 
 .conteudo__link_links:hover {
@@ -129,7 +131,7 @@ img {
    
 
     .cabecalho {
-        padding: 5%;
+        padding: 10%;
         margin: 0 0 0 100%;
         
         
@@ -142,15 +144,22 @@ img {
 
     .conteudo {
         flex-direction: column-reverse;
-        
-        
+        padding: 5%;
        
     }
 
-
-    .conteudo__titulo {
+    .conteudo__ {
         width: auto;
+        
+    }
 
+    .conteudo__link_links {
+        width: auto;
+        padding: 2%;
+    }
+
+    .conteudo__link_links_img{
+        height: 75%;
     }
 
 
